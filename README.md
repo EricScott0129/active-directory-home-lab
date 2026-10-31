@@ -36,7 +36,7 @@ Skills Practiced
 ## Active Directory Homelab Screenshots
 
 ### 1. Server Manager
-![Server Manager](Screenshots/Server-Manager.png)
+![Server Manager](Screenshots/Active-DirectoryServer-Manager.png)
 
 ### 2. Active Directory Users and Computers
 ![AD Users and Computers](Screenshots/Active-Directory-Users-and-Computers.png)
