@@ -33,7 +33,32 @@ Skills Practiced
 * Basic account administration
 * Troubleshooting and documenting IT tasks
 
-Screenshots
+## Active Directory Homelab Screenshots
+
+### 1. Server Manager
+![Server Manager](Screenshots/Server-Manager.png)
+
+### 2. Active Directory Users and Computers
+![AD Users and Computers](Screenshots/Active-Directory-Users-and-Computers.png)
+
+### 3. Domain Users
+![Domain Users](Screenshots/Active-Directory-Domain-Users.png)
+
+### 4. Security Groups
+![Security Groups](Screenshots/Active-Directory-Security-Groups.png)
+
+### 5. DNS Configuration
+![DNS Configuration](Screenshots/Active-Directory-DNS-Configuration.png)
+
+### 6. MSDCS DNS
+![MSDCS DNS](Screenshots/Active-Directory-MSDCS-DNS.png)
+
+### 7. Sites and Services
+![Sites and Services](Screenshots/Active-Directory-Sites-and-Services.png)
+
+### 8. Domain Verification
+![Domain Verification](Screenshots/Active-Directory-Domain-Verification.png)
+
 
 Screenshots documenting the lab setup and completed tasks will be added here. All screenshots will exclude passwords and sensitive information.
 
